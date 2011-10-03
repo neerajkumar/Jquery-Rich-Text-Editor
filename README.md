@@ -9,6 +9,7 @@ Now, you can define the height of the rte as well as css for the body of your te
 
 ### Example: 
 
+``` js
   $('textarea').live(function() {
     $('textarea.your_textarea_class').rte({
       css: ['jquery.rte.css'],
@@ -19,3 +20,4 @@ Now, you can define the height of the rte as well as css for the body of your te
         "padding:5px;font: 12px Tahoma, Verdana, Arial, Helvetica, sans-serif;",
 	});
   });
+```
