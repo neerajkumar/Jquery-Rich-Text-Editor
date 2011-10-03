@@ -1,4 +1,4 @@
-== A light weight RTE jQuery Plugin
+= A light weight RTE jQuery Plugin
 
 The plugin is originally created by Andrey Gayvoronsky - 
 
