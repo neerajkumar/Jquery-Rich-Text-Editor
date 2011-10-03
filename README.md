@@ -7,9 +7,9 @@ The plugin is originally created by Andrey Gayvoronsky -
 
 Now, you can define the height of the rte as well as css for the body of your textareas.
 
-## Example: 
+### Example: 
 
-  $('textarea').livequery(function() {
+  $('textarea').live(function() {
     $('textarea.your_textarea_class').rte({
       css: ['jquery.rte.css'],
       width: 400,
