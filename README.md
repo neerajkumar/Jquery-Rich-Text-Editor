@@ -9,7 +9,7 @@ Now, you can define the height of the rte as well as css for the body of your te
 
 ## Example: 
 
-  `$('textarea').livequery(function() {
+  $('textarea').livequery(function() {
     $('textarea.your_textarea_class').rte({
       css: ['jquery.rte.css'],
       width: 400,
@@ -18,4 +18,4 @@ Now, you can define the height of the rte as well as css for the body of your te
       iframe_body_css: 
         "padding:5px;font: 12px Tahoma, Verdana, Arial, Helvetica, sans-serif;",
 	});
-  });`
+  });
